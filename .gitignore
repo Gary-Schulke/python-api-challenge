@@ -16,7 +16,10 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+# API homework files that should not be included.
 apy_keys.py
 Images/
 starter_code/
 *.pdf
+bobo*.*
